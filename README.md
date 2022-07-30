@@ -8,7 +8,8 @@
 - [x] input text eng
 - [ ] input text th
 
-- - -
+<h5 align="center"> scrcpy : error when input thai text </h5>
+<img width="1440" alt="Screen Shot 2565-07-30 at 16 09 35" src="https://user-images.githubusercontent.com/73060136/181903822-f4dc320e-aefd-4759-995e-e90ed3c30bf4.png">
 
 </br>
 
