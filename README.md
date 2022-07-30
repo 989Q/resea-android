@@ -7,10 +7,6 @@
 - [ ] input text th
 - - -
 
-<img width="1440" alt="Screen Shot 2565-07-30 at 16 09 35" src="https://user-images.githubusercontent.com/73060136/181903822-f4dc320e-aefd-4759-995e-e90ed3c30bf4.png">
-
-<h5 align="center"> - error when input thai text - </h5>
-
 - - -
 ### 😵‍💫 EXAM
 
@@ -60,4 +56,15 @@ Tool </br>
 [SocketIME](https://github.com/npes87184/SocketIME) </br>
 [ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard)
 - - -
+
+
+
+
+### 😵 TEST RESULT
+
+<h4 align="center"> - TCL20R5G , smooth on mobile and pc - </h4>
+<img width="1440" alt="Screen Shot 2565-07-30 at 16 09 35" src="https://user-images.githubusercontent.com/73060136/181903822-f4dc320e-aefd-4759-995e-e90ed3c30bf4.png">
+
+<h4 align="center"> - A72016 , not smooth on mobile and pc - </h4>
+<img width="1440" alt="Screen Shot 2565-07-30 at 18 02 11" src="https://user-images.githubusercontent.com/73060136/181907994-04b4b3a0-57b6-4803-b709-2aae887b3aee.png">
 
