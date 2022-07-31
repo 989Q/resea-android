@@ -7,7 +7,6 @@
 - [ ] input text th
 - - -
 
-- - -
 ### 😵‍💫 EXAM
 
 ส่งภาพและเสียงมือถือเข้าคอม ไม่กระตุก Full HD ใช้ USB ต่อตรง ด้วย scrcpy + sndcpy ฟรี!!
@@ -41,7 +40,6 @@ scrcpy
 [server] WARN: Could not inject char u+0e01
 [server] WARN: Could not inject char u+0e1f
 ```
-
 - - -
 
 ### 😵 DOING
@@ -57,9 +55,6 @@ Tool </br>
 [ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard)
 - - -
 
-
-
-
 ### 😵 TEST RESULT
 
 <h4 align="center"> - TCL20R5G , smooth on mobile and pc - </h4>
@@ -68,3 +63,4 @@ Tool </br>
 <h4 align="center"> - A72016 , not smooth on mobile and pc - </h4>
 <img width="1440" alt="Screen Shot 2565-07-30 at 18 02 11" src="https://user-images.githubusercontent.com/73060136/181907994-04b4b3a0-57b6-4803-b709-2aae887b3aee.png">
 
+- - -
